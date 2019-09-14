@@ -1,9 +1,15 @@
+amqp==2.5.1
 backcall==0.1.0
+billiard==3.6.1.0
+celery==4.3.0
 decorator==4.4.0
 Django==2.2.4
+importlib-metadata==0.22
 ipython==7.8.0
 ipython-genutils==0.2.0
 jedi==0.15.1
+kombu==4.6.4
+more-itertools==7.2.0
 parso==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
@@ -15,4 +21,6 @@ pytz==2019.2
 six==1.12.0
 sqlparse==0.3.0
 traitlets==4.3.2
+vine==1.3.0
 wcwidth==0.1.7
+zipp==0.6.0
