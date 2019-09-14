@@ -1,0 +1,6 @@
+volumes/
+.idea/
+*.log
+*.pot
+*.pyc
+__pycache__/
