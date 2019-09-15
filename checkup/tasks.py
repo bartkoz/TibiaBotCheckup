@@ -8,4 +8,5 @@ def perform_base_online_checkup():
     Make lookups across worlds, log players and create models
     later used as source for online time counters
     """
+    print('check')
     pass

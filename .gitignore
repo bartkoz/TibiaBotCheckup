@@ -4,3 +4,4 @@ volumes/
 *.pot
 *.pyc
 __pycache__/
+*.sqlite3
